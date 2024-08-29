@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int firstBadVersion(int n) {
+        int left = 1, right = n, first_bad = -1;
+        while (left <= right) {
+            int middle = left + (right - left) / 2;
+            bool middle_bad = isBadVersion(middle);
+            if (!middle_bad)
+                left = middle + 1;
+            else if (middle_bad) {
+                first_bad = middle;
+                right = middle - 1;
+            }
+        }
+        return first_bad;
+    }
+};

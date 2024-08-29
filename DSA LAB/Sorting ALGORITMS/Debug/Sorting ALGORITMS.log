@@ -1,0 +1,86 @@
+﻿  CustomerDL.cpp
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(130,28): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(302,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(388,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(395,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(396,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(404,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(412,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(386,16): warning C4101: 'z': unreferenced local variable
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(424,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(431,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(432,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(440,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(448,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(422,16): warning C4101: 'z': unreferenced local variable
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(460,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(462,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(472,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(483,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(496,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(498,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(508,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(519,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(620,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(622,105): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(624,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(629,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(631,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(633,66): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Sorting ALGORITMS.cpp
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(130,28): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(302,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(388,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(395,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(396,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(404,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(412,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(386,16): warning C4101: 'z': unreferenced local variable
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(424,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(431,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(432,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(440,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(448,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(422,16): warning C4101: 'z': unreferenced local variable
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(460,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(462,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(472,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(483,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(496,29): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(498,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(508,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(519,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(620,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(622,105): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(624,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(629,30): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(631,34): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\CustomerDL.h(633,66): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1429,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1461,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1506,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1538,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1582,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1614,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1657,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1688,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1731,25): warning C4018: '<': signed/unsigned mismatch
+D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Sorting ALGORITMS.cpp(1762,25): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Sorting ALGORITMS.vcxproj -> D:\University Work\Semester 3\DSA LAB\Sorting ALGORITMS\Debug\Sorting ALGORITMS.exe

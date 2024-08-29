@@ -1,0 +1,28 @@
+#include <vector>
+class Solution {
+public:
+    int findMinimum(vector<int> arr, int start, int end)
+        {
+            int min = arr[start];
+            int minIndex = start;
+            for(int x = start; x < end; x++)
+            {
+                if(min < arr[x])
+                {
+                    min = arr[x];
+                    minIndex = x;
+                }
+            }
+            return minIndex;
+        }
+    vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
+        int n = names.size();
+        for(int x = 0; x < names.size(); x++)
+        {
+            int minIndex = findMinimum(heights, x, n);
+            swap(heights[x], heights[minIndex]);
+            swap(names[x], names[minIndex]);
+        }
+        return names;
+    }
+};

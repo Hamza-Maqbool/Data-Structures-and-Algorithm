@@ -1,0 +1,4 @@
+﻿  menu option.cpp
+D:\University Work\Semester 3\DSA LAB\menu option\menu option.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\University Work\Semester 3\DSA LAB\menu option\MyStack.h(42): warning C4715: 'MyStack::ShowTop': not all control paths return a value
+  menu option.vcxproj -> D:\University Work\Semester 3\DSA LAB\menu option\Debug\menu option.exe
